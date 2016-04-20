@@ -1,5 +1,7 @@
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -170,13 +172,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "1"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50465,
@@ -239,13 +243,15 @@
                 52.4082
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "2"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -432,13 +438,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "3"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -581,13 +589,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "4"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48632,
@@ -638,13 +648,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "5"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -807,13 +819,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "6"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48417,
@@ -976,13 +990,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "7"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -1089,13 +1105,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "8"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4906,
@@ -1130,13 +1148,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "9"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49298,
@@ -1231,13 +1251,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "10"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49059,
@@ -1296,13 +1318,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "11"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -1429,13 +1453,15 @@
                 52.4083
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "12"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -1618,13 +1644,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "13"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -1687,13 +1715,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "14"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50032,
@@ -1764,13 +1794,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "15"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48381,
@@ -1881,13 +1913,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "16"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -2078,13 +2112,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "17"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -2183,13 +2219,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "18"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46008,
@@ -2236,13 +2274,15 @@
                 52.4166
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "19"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -2413,13 +2453,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "20"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -2498,13 +2540,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "21"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46917,
@@ -2611,13 +2655,15 @@
                 52.4328
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "22"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -2780,13 +2826,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "23"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49055,
@@ -2969,13 +3017,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "24"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -3046,13 +3096,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "25"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -3167,13 +3219,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "26"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -3260,13 +3314,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "27"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48404,
@@ -3397,13 +3453,15 @@
                 52.407
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "28"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -3474,13 +3532,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "29"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -3667,13 +3727,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "30"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -3824,13 +3886,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "31"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50002,
@@ -3889,13 +3953,15 @@
                 52.4055
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "32"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -4050,13 +4116,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "33"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50956,
@@ -4151,13 +4219,15 @@
                 52.4061
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "34"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -4320,13 +4390,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "35"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49069,
@@ -4529,13 +4601,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "36"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -4622,13 +4696,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "37"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -4787,13 +4863,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "38"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46915,
@@ -4880,13 +4958,15 @@
                 52.4329
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "39"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -4933,13 +5013,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "40"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -4962,13 +5044,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "41"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50936,
@@ -5123,13 +5207,15 @@
                 52.4193
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "42"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -5152,13 +5238,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "43"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48407,
@@ -5189,13 +5277,15 @@
                 52.4086
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "44"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -5294,13 +5384,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "45"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -5399,13 +5491,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "46"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -5428,13 +5522,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "47"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50583,
@@ -5469,13 +5565,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "48"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.57449,
@@ -5514,13 +5612,15 @@
                 52.402
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "49"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -5619,13 +5719,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "50"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50583,
@@ -5660,13 +5762,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "51"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48378,
@@ -5693,13 +5797,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "52"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48873,
@@ -5854,13 +5960,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "53"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -5959,13 +6067,15 @@
                 52.4086
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "54"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -6152,13 +6262,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "55"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48374,
@@ -6249,13 +6361,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "56"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4906,
@@ -6402,13 +6516,15 @@
                 52.406
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "57"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49352,
@@ -6531,13 +6647,15 @@
                 52.4077
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "58"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.5152,
@@ -6604,13 +6722,15 @@
                 52.4082
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "59"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50047,
@@ -6701,13 +6821,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "60"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49066,
@@ -6906,13 +7028,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "61"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -7071,13 +7195,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "62"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -7264,13 +7390,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "63"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49066,
@@ -7469,13 +7597,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "64"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -7530,13 +7660,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "65"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -7663,13 +7795,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "66"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50007,
@@ -7720,13 +7854,15 @@
                 52.405
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "67"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4841,
@@ -7925,13 +8061,15 @@
                 52.4069
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "68"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46917,
@@ -8038,13 +8176,15 @@
                 52.4328
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "69"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46913,
@@ -8175,13 +8315,15 @@
                 52.4329
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "70"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.44032,
@@ -8272,13 +8414,15 @@
                 52.4214
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "71"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49057,
@@ -8301,13 +8445,15 @@
                 52.4063
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "72"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -8366,13 +8512,15 @@
                 52.4426
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "73"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.89409,
@@ -8555,13 +8703,15 @@
                 52.4793
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "74"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -8688,13 +8838,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "75"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48398,
@@ -8845,13 +8997,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "76"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -8974,13 +9128,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "77"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -9135,13 +9291,15 @@
                 52.4069
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "78"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50047,
@@ -9232,13 +9390,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "79"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.484,
@@ -9381,13 +9541,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "80"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49057,
@@ -9554,13 +9716,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "81"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50003,
@@ -9747,13 +9911,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "82"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48403,
@@ -9788,13 +9954,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "83"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50007,
@@ -9845,13 +10013,15 @@
                 52.405
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "84"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -9922,13 +10092,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "85"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -10031,13 +10203,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "86"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -10128,13 +10302,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "87"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.5052,
@@ -10313,13 +10489,15 @@
                 52.4079
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "88"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50002,
@@ -10398,13 +10576,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "89"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50047,
@@ -10495,13 +10675,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "90"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -10660,13 +10842,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "91"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -10729,13 +10913,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "92"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50011,
@@ -10926,13 +11112,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "93"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -10987,13 +11175,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "94"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -11092,13 +11282,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "95"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50265,
@@ -11173,13 +11365,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "96"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -11350,13 +11544,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "97"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48376,
@@ -11387,13 +11583,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "98"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -11544,13 +11742,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "99"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50265,
@@ -11625,13 +11825,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "100"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -11734,13 +11936,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "101"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 0.941089,
@@ -11867,13 +12071,15 @@
                 52.7481
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "102"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50956,
@@ -11968,13 +12174,15 @@
                 52.4061
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "103"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -12065,13 +12273,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "104"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.72572,
@@ -12210,13 +12420,15 @@
                 52.458
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "105"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -12303,13 +12515,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "106"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49298,
@@ -12404,13 +12618,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "107"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -12509,13 +12725,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "108"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -12714,13 +12932,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "109"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50268,
@@ -12863,13 +13083,15 @@
                 52.4069
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "110"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50478,
@@ -13012,13 +13234,15 @@
                 52.4084
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "111"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -13185,13 +13409,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "112"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -13378,13 +13604,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "113"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48398,
@@ -13475,13 +13703,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "114"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.9876,
@@ -13572,13 +13802,15 @@
                 52.4794
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "115"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -13693,13 +13925,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "116"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 0.940707,
@@ -13758,13 +13992,15 @@
                 52.7479
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "117"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -13895,13 +14131,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "118"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.5136,
@@ -14068,13 +14306,15 @@
                 52.4755
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "119"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48398,
@@ -14133,13 +14373,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "120"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -14242,13 +14484,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "121"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -14339,13 +14583,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "122"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.5108,
@@ -14496,13 +14742,15 @@
                 52.407
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "123"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48417,
@@ -14665,13 +14913,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "124"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48374,
@@ -14810,13 +15060,15 @@
                 52.4064
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "125"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -14959,13 +15211,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "126"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -15052,13 +15306,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "127"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -15201,13 +15457,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "128"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -15370,13 +15628,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "129"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -15479,13 +15739,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "130"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4906,
@@ -15632,13 +15894,15 @@
                 52.406
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "131"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -15677,13 +15941,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "132"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50053,
@@ -15886,13 +16152,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "133"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -15975,13 +16243,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "134"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4906,
@@ -16016,13 +16286,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "135"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -16065,13 +16337,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "136"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50194,
@@ -16266,13 +16540,15 @@
                 52.4014
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "137"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -16315,13 +16591,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "138"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -16408,13 +16686,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "139"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.484,
@@ -16473,13 +16753,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "140"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -16582,13 +16864,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "141"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -16619,13 +16903,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "142"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50269,
@@ -16700,13 +16986,15 @@
                 52.4493
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "143"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50015,
@@ -16769,13 +17057,15 @@
                 52.4055
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "144"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50007,
@@ -16910,13 +17200,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "145"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -17063,13 +17355,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "146"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50009,
@@ -17216,13 +17510,15 @@
                 52.4055
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "147"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -4.6304,
@@ -17425,13 +17721,15 @@
                 56.1263
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "148"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.484,
@@ -17574,13 +17872,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "149"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -17679,13 +17979,15 @@
                 52.4342
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "150"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49055,
@@ -17732,13 +18034,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "151"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48401,
@@ -17829,13 +18133,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "152"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49064,
@@ -18022,13 +18328,15 @@
                 52.4068
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "153"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -18067,13 +18375,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "154"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -18228,13 +18538,15 @@
                 52.4069
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "155"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -18349,13 +18661,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "156"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50948,
@@ -18530,13 +18844,15 @@
                 52.4194
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "157"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4861,
@@ -18627,13 +18943,15 @@
                 52.4084
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "158"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49065,
@@ -18760,13 +19078,15 @@
                 52.406
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "159"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -18833,13 +19153,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "160"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -19006,13 +19328,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "161"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -19175,13 +19499,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "162"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49058,
@@ -19312,13 +19638,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "163"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -19445,13 +19773,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "164"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -19638,13 +19968,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "165"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48362,
@@ -19831,13 +20163,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "166"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48404,
@@ -19860,13 +20194,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "167"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50015,
@@ -20009,13 +20345,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "168"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -20178,13 +20516,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "169"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -4.6304,
@@ -20387,13 +20727,15 @@
                 56.1263
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "170"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -20436,13 +20778,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "171"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48404,
@@ -20573,13 +20917,15 @@
                 52.407
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "172"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -20674,13 +21020,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "173"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -20775,13 +21123,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "174"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -20932,13 +21282,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "175"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -21009,13 +21361,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "176"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48397,
@@ -21086,13 +21440,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "177"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50274,
@@ -21127,13 +21483,15 @@
                 52.4069
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "178"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -21240,13 +21598,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "179"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -21433,13 +21793,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "180"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.51886,
@@ -21562,13 +21924,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "181"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48401,
@@ -21699,13 +22063,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "182"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -21904,13 +22270,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "183"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -22113,13 +22481,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "184"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50513,
@@ -22278,13 +22648,15 @@
                 52.4082
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "185"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -22431,13 +22803,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "186"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -22592,13 +22966,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "187"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48401,
@@ -22729,13 +23105,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "188"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -22778,13 +23156,15 @@
                 52.4022
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "189"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -22967,13 +23347,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "190"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48405,
@@ -23028,13 +23410,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "191"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -23113,13 +23497,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "192"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46911,
@@ -23174,13 +23560,15 @@
                 52.4328
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "193"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.93833,
@@ -23207,13 +23595,15 @@
                 52.5992
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "194"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -23340,13 +23730,15 @@
                 52.4083
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "195"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -23445,13 +23837,15 @@
                 52.4086
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "196"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.484,
@@ -23598,13 +23992,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "197"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -23735,13 +24131,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "198"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -23944,13 +24342,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "199"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48398,
@@ -24009,13 +24409,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "200"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -24046,13 +24448,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "201"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46915,
@@ -24139,13 +24543,15 @@
                 52.4329
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "202"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48417,
@@ -24308,13 +24714,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "203"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4907,
@@ -24465,13 +24873,15 @@
                 52.4058
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "204"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.51345,
@@ -24534,13 +24944,15 @@
                 52.4081
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "205"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50015,
@@ -24603,13 +25015,15 @@
                 52.4055
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "206"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -24752,13 +25166,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "207"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50002,
@@ -24837,13 +25253,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "208"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50382,
@@ -24906,13 +25324,15 @@
                 52.4068
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "209"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50007,
@@ -25047,13 +25467,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "210"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -25192,13 +25614,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "211"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -25285,13 +25709,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "212"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50956,
@@ -25330,13 +25756,15 @@
                 52.4084
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "213"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50053,
@@ -25539,13 +25967,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "214"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -25720,13 +26150,15 @@
                 52.4132
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "215"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -25853,13 +26285,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "216"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -25910,13 +26344,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "217"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -26003,13 +26439,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "218"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48873,
@@ -26164,13 +26602,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "219"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -26257,13 +26697,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "220"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -26406,13 +26848,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "221"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50007,
@@ -26591,13 +27035,15 @@
                 52.4055
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "222"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -26668,13 +27114,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "223"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -26781,13 +27229,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "224"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.5003,
@@ -26866,13 +27316,15 @@
                 52.4055
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "225"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.47756,
@@ -27035,13 +27487,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "226"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -27244,13 +27698,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "227"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50013,
@@ -27329,13 +27785,15 @@
                 52.4095
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "228"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -27386,13 +27844,15 @@
                 52.4094
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "229"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49392,
@@ -27431,13 +27891,15 @@
                 52.4074
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "230"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50038,
@@ -27640,13 +28102,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "231"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -27773,13 +28237,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "232"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -27962,13 +28428,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "233"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46913,
@@ -28099,13 +28567,15 @@
                 52.4329
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "234"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -28292,13 +28762,15 @@
                 52.4075
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "235"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -28321,13 +28793,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "236"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.72961,
@@ -28518,13 +28992,15 @@
                 52.458
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "237"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -28671,13 +29147,15 @@
                 52.4086
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "238"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49994,
@@ -28716,13 +29194,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "239"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -28817,13 +29297,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "240"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -29006,13 +29488,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "241"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50018,
@@ -29123,13 +29607,15 @@
                 52.4055
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "242"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -29308,13 +29794,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "243"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -29417,13 +29905,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "244"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -29578,13 +30068,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "245"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -29631,13 +30123,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "246"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -29676,13 +30170,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "247"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49472,
@@ -29849,13 +30345,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "248"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -29918,13 +30416,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "249"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48398,
@@ -30051,13 +30551,15 @@
                 52.4025
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "250"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -30100,13 +30602,15 @@
                 52.4022
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "251"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -30197,13 +30701,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "252"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -30322,13 +30828,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "253"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -30415,13 +30923,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "254"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -30612,13 +31122,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "255"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48398,
@@ -30769,13 +31281,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "256"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -30854,13 +31368,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "257"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -31031,13 +31547,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "258"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -31188,13 +31706,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "259"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50005,
@@ -31329,13 +31849,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "260"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.47756,
@@ -31498,13 +32020,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "261"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -31563,13 +32087,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "262"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -31716,13 +32242,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "263"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -31801,13 +32329,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "264"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -31994,13 +32524,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "265"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49746,
@@ -32111,13 +32643,15 @@
                 52.4057
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "266"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -32300,13 +32834,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "267"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -32493,13 +33029,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "268"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48397,
@@ -32646,13 +33184,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "269"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -32751,13 +33291,15 @@
                 52.4114
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "270"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -32912,13 +33454,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "271"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -32989,13 +33533,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "272"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -33062,13 +33608,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "273"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -33111,13 +33659,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "274"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -33236,13 +33786,15 @@
                 52.2912
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "275"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -33429,13 +33981,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "276"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -33506,13 +34060,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "277"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -33551,13 +34107,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "278"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -33608,13 +34166,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "279"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49994,
@@ -33653,13 +34213,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "280"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48873,
@@ -33814,13 +34376,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "281"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -33919,13 +34483,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "282"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48378,
@@ -34080,13 +34646,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "283"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -34257,13 +34825,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "284"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50003,
@@ -34450,13 +35020,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "285"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50959,
@@ -34627,13 +35199,15 @@
                 52.4053
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "286"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46517,
@@ -34660,13 +35234,15 @@
                 52.4085
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "287"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50643,
@@ -34809,13 +35385,15 @@
                 52.408
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "288"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -34878,13 +35456,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "289"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4906,
@@ -34919,13 +35499,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "290"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -34972,13 +35554,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "291"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50503,
@@ -35057,13 +35641,15 @@
                 52.3914
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "292"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48672,
@@ -35086,13 +35672,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "293"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -35131,13 +35719,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "294"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48397,
@@ -35232,13 +35822,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "295"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -35373,13 +35965,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "296"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46915,
@@ -35566,13 +36160,15 @@
                 52.4322
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "297"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49061,
@@ -35619,13 +36215,15 @@
                 52.406
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "298"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49065,
@@ -35752,13 +36350,15 @@
                 52.406
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "299"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49059,
@@ -35921,13 +36521,15 @@
                 55.8169
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "300"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50515,
@@ -36126,13 +36728,15 @@
                 52.4076
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "301"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50187,
@@ -36235,13 +36839,15 @@
                 52.4079
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "302"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -36300,13 +36906,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "303"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -36493,13 +37101,15 @@
                 52.4075
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "304"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -36702,13 +37312,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "305"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -36751,13 +37363,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "306"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -36788,13 +37402,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "307"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50478,
@@ -36961,13 +37577,15 @@
                 52.4042
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "308"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -37134,13 +37752,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "309"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -37343,13 +37963,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "310"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -37424,13 +38046,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "311"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -37585,13 +38209,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "312"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -37622,13 +38248,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "313"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -3.14029,
@@ -37767,13 +38395,15 @@
                 54.6081
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "314"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50578,
@@ -37900,13 +38530,15 @@
                 52.405
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "315"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48672,
@@ -37929,13 +38561,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "316"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48378,
@@ -38018,13 +38652,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "317"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.44032,
@@ -38115,13 +38751,15 @@
                 52.4214
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "318"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49058,
@@ -38252,13 +38890,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "319"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -38397,13 +39037,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "320"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49057,
@@ -38518,13 +39160,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "321"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -38687,13 +39331,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "322"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -38856,13 +39502,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "323"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -38981,13 +39629,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "324"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48378,
@@ -39142,13 +39792,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "325"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -39251,13 +39903,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "326"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -39280,13 +39934,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "327"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -39477,13 +40133,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "328"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -39642,13 +40300,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "329"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48378,
@@ -39803,13 +40463,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "330"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48406,
@@ -39872,13 +40534,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "331"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -39929,13 +40593,15 @@
                 52.4094
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "332"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -40054,13 +40720,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "333"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48376,
@@ -40227,13 +40895,15 @@
                 52.3945
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "334"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.51886,
@@ -40356,13 +41026,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "335"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46908,
@@ -40545,13 +41217,15 @@
                 52.4329
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "336"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -40678,13 +41352,15 @@
                 52.4083
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "337"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.72961,
@@ -40875,13 +41551,15 @@
                 52.458
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "338"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4665,
@@ -40920,13 +41598,15 @@
                 52.4328
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "339"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49488,
@@ -41073,13 +41753,15 @@
                 52.4096
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "340"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50956,
@@ -41174,13 +41856,15 @@
                 52.4061
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "341"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -41239,13 +41923,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "342"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -41312,13 +41998,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "343"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4665,
@@ -41357,13 +42045,15 @@
                 52.4328
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "344"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49059,
@@ -41462,13 +42152,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "345"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -41555,13 +42247,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "346"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 0.940707,
@@ -41620,13 +42314,15 @@
                 52.7479
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "347"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50511,
@@ -41749,13 +42445,15 @@
                 52.4077
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "348"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49055,
@@ -41890,13 +42588,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "349"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49436,
@@ -41959,13 +42659,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "350"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -42044,13 +42746,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "351"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -42221,13 +42925,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "352"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -42274,13 +42980,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "353"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -42327,13 +43035,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "354"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50269,
@@ -42408,13 +43118,15 @@
                 52.4493
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "355"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -42569,13 +43281,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "356"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4842,
@@ -42602,13 +43316,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "357"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50478,
@@ -42751,13 +43467,15 @@
                 52.4084
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "358"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -42784,13 +43502,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "359"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.51578,
@@ -42993,13 +43713,15 @@
                 52.405
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "360"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49061,
@@ -43054,13 +43776,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "361"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48396,
@@ -43147,13 +43871,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "362"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50268,
@@ -43296,13 +44022,15 @@
                 52.4069
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "363"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49061,
@@ -43349,13 +44077,15 @@
                 52.406
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "364"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48374,
@@ -43446,13 +44176,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "365"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -43515,13 +44247,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "366"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50959,
@@ -43692,13 +44426,15 @@
                 52.4053
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "367"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -43889,13 +44625,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "368"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49298,
@@ -43990,13 +44728,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "369"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50038,
@@ -44051,13 +44791,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "370"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -4.6304,
@@ -44260,13 +45002,15 @@
                 56.1263
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "371"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -44377,13 +45121,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "372"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -44582,13 +45328,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "373"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50478,
@@ -44731,13 +45479,15 @@
                 52.4084
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "374"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -44908,13 +45658,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "375"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50002,
@@ -44993,13 +45745,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "376"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -45046,13 +45800,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "377"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -45219,13 +45975,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "378"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50002,
@@ -45304,13 +46062,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "379"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -45409,13 +46169,15 @@
                 52.4114
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "380"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -45478,13 +46240,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "381"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48411,
@@ -45583,13 +46347,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "382"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -45676,13 +46442,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "383"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50511,
@@ -45805,13 +46573,15 @@
                 52.4077
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "384"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -45866,13 +46636,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "385"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -45959,13 +46731,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "386"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -46152,13 +46926,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "387"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -46293,13 +47069,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "388"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -46450,13 +47228,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "389"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48407,
@@ -46487,13 +47267,15 @@
                 52.4086
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "390"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48373,
@@ -46532,13 +47314,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "391"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -46709,13 +47493,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "392"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.9876,
@@ -46806,13 +47592,15 @@
                 52.4794
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "393"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.5052,
@@ -46991,13 +47779,15 @@
                 52.4079
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "394"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50018,
@@ -47148,13 +47938,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "395"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -47333,13 +48125,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "396"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48398,
@@ -47398,13 +48192,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "397"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50584,
@@ -47475,13 +48271,15 @@
                 52.409
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "398"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4839,
@@ -47596,13 +48394,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "399"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -47661,13 +48461,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "400"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -47870,13 +48672,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "401"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -47955,13 +48759,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "402"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50002,
@@ -48040,13 +48846,15 @@
                 52.4054
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "403"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50047,
@@ -48137,13 +48945,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "404"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -48278,13 +49088,15 @@
                 52.409
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "405"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48398,
@@ -48343,13 +49155,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "406"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49063,
@@ -48468,13 +49282,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "407"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.72961,
@@ -48665,13 +49481,15 @@
                 52.458
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "408"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48632,
@@ -48722,13 +49540,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "409"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48401,
@@ -48815,13 +49635,15 @@
                 52.4095
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "410"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -48928,13 +49750,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "411"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.484,
@@ -49077,13 +49901,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "412"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50948,
@@ -49258,13 +50084,15 @@
                 52.4194
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "413"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -49415,13 +50243,15 @@
                 52.408
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "414"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48376,
@@ -49588,13 +50418,15 @@
                 52.3945
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "415"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -49781,13 +50613,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "416"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48402,
@@ -49970,13 +50804,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "417"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48381,
@@ -50167,13 +51003,15 @@
                 52.4083
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "418"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48386,
@@ -50232,13 +51070,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "419"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.5003,
@@ -50317,13 +51157,15 @@
                 52.4055
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "420"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -50350,13 +51192,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "421"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.51886,
@@ -50479,13 +51323,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "422"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50013,
@@ -50564,13 +51410,15 @@
                 52.4095
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "423"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48404,
@@ -50769,13 +51617,15 @@
                 53.0828
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "424"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.484,
@@ -50902,13 +51752,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "425"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46496,
@@ -50947,13 +51799,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "426"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46517,
@@ -50980,13 +51834,15 @@
                 52.4085
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "427"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -4.20809,
@@ -51145,13 +52001,15 @@
                 56.126
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "428"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.51784,
@@ -51266,13 +52124,15 @@
                 52.408
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "429"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -51331,13 +52191,15 @@
                 52.4426
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "430"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48378,
@@ -51424,13 +52286,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "431"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48401,
@@ -51517,13 +52381,15 @@
                 52.4095
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "432"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -51686,13 +52552,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "433"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49059,
@@ -51855,13 +52723,15 @@
                 55.8169
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "434"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48378,
@@ -51944,13 +52814,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "435"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50265,
@@ -52025,13 +52897,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "436"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -52234,13 +53108,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "437"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48395,
@@ -52295,13 +53171,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "438"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -52432,13 +53310,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "439"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48378,
@@ -52521,13 +53401,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "440"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4907,
@@ -52678,13 +53560,15 @@
                 52.4058
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "441"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.57449,
@@ -52723,13 +53607,15 @@
                 52.402
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "442"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -52908,13 +53794,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "443"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.72953,
@@ -53085,13 +53973,15 @@
                 52.458
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "444"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -53198,13 +54088,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "445"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -53299,13 +54191,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "446"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -53468,13 +54362,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "447"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48387,
@@ -53637,13 +54533,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "448"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -53706,13 +54604,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "449"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.72953,
@@ -53883,13 +54783,15 @@
                 52.458
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "450"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48379,
@@ -53988,13 +54890,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "451"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -54173,13 +55077,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "452"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.5003,
@@ -54298,13 +55204,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "453"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -54331,13 +55239,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "454"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48412,
@@ -54468,13 +55378,15 @@
                 52.4096
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "455"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46915,
@@ -54561,13 +55473,15 @@
                 52.4329
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "456"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48411,
@@ -54666,13 +55580,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "457"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49616,
@@ -54723,13 +55639,15 @@
                 52.417
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "458"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49055,
@@ -54812,13 +55730,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "459"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48405,
@@ -54885,13 +55805,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "460"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.51886,
@@ -55014,13 +55936,15 @@
                 52.4089
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "461"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50005,
@@ -55155,13 +56079,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "462"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48383,
@@ -55280,13 +56206,15 @@
                 52.2912
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "463"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -55389,13 +56317,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "464"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50274,
@@ -55542,13 +56472,15 @@
                 52.4069
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "465"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48397,
@@ -55671,13 +56603,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "466"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50004,
@@ -55856,13 +56790,15 @@
                 52.4056
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "467"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.7296,
@@ -55937,13 +56873,15 @@
                 52.458
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "468"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4841,
@@ -56142,13 +57080,15 @@
                 52.4069
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "469"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48385,
@@ -56287,13 +57227,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "470"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48417,
@@ -56456,13 +57398,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "471"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -56545,13 +57489,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "472"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.46915,
@@ -56638,13 +57584,15 @@
                 52.4329
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "473"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -56759,13 +57707,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "474"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.4838,
@@ -56820,13 +57770,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "475"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -56945,13 +57897,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "476"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -57122,13 +58076,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "477"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49352,
@@ -57251,13 +58207,15 @@
                 52.4077
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "478"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.484,
@@ -57316,13 +58274,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "479"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50936,
@@ -57477,13 +58437,15 @@
                 52.4193
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "480"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48405,
@@ -57538,13 +58500,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "481"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48384,
@@ -57663,13 +58627,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "482"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48391,
@@ -57696,13 +58662,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "483"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.72945,
@@ -57841,13 +58809,15 @@
                 52.4579
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "484"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -57982,13 +58952,15 @@
                 52.4087
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "485"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50347,
@@ -58039,13 +59011,15 @@
                 52.4076
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "486"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48399,
@@ -58208,13 +59182,15 @@
                 52.4088
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "487"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.49059,
@@ -58273,13 +59249,15 @@
                 52.4059
             ]
         ],
-        "type": "lineString"
+        
     },
     "patiant_id": "",
     "patient_id": "488"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48392,
@@ -58317,14 +59295,16 @@
                 -1.48391,
                 52.4088
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "489"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48394,
@@ -58430,14 +59410,16 @@
                 -1.48394,
                 52.4087
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "490"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48388,
@@ -58499,14 +59481,16 @@
                 -1.48392,
                 52.4087
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "491"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48389,
@@ -58612,14 +59596,16 @@
                 -1.48393,
                 52.4088
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "492"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48397,
@@ -58693,14 +59679,16 @@
                 -1.48412,
                 52.4089
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "493"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.44032,
@@ -58790,14 +59778,16 @@
                 -1.44082,
                 52.4214
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "494"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -58923,14 +59913,16 @@
                 -1.48384,
                 52.4088
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "495"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48393,
@@ -58952,14 +59944,16 @@
                 -1.48393,
                 52.4088
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "496"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.50018,
@@ -59109,14 +60103,16 @@
                 -1.50025,
                 52.4056
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "497"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.48382,
@@ -59270,14 +60266,16 @@
                 -1.48383,
                 52.4088
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "498"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -1.484,
@@ -59395,14 +60393,16 @@
                 -1.484,
                 52.4087
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "499"
 }
 {
-    "locations": {
+    "locations":{ 
+        "type":"LineString", 
+"type":"LineString", {
         "coordinates": [
             [
                 -4.6304,
@@ -59604,8 +60604,8 @@
                 -4.10973,
                 56.1263
             ]
-        ],
-        "type": "lineString"
+        ]
+        
     },
     "patiant_id": "",
     "patient_id": "500"
